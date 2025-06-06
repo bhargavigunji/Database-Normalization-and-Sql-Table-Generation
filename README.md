@@ -6,16 +6,6 @@
 To develop a program that takes a dataset (relation) and functional dependencies as input normalizes the relations based on the provided functional dependencies, produces SQL queries to generate the normalized database tables, and optionally determines the highest normal form of the input table.
 
 
-## Contributors
-Hemanth Sirish Kumar sai, Mandava (hmm8b@umsystem.edu)
-
-Sivani, Rayala (sr2fb@umsystem.edu)
-
-Bhargavi, Gunji (bg39x@umsystem.edu)
-
-Nivitha, Maddela (nmcy7@umsystem.edu)
-
-
 ## Project Contents
 ### Input Files
   1. exampleInputTable.csv: The input relation data
